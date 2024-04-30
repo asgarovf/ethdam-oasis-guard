@@ -39,7 +39,7 @@ Semaphore.sol: 0x9245483dB42fFa2087b0577bF247a0cbaaef2E84
 
 | Team Member                               | Field             |
 | ----------------------------------------- | ----------------- |
-| [Utku Ömer Kılıç](https://x.com/utmrklc)  | Software Enginner |
-| [Farhad Asgarov](https://x.com/asgarovf)  | Software Enginner |
+| [Utku Ömer Kılıç](https://x.com/utmrklc)  | Software Engineer |
+| [Farhad Asgarov](https://x.com/asgarovf)  | Software Engineer |
 | [Eylül Şahin](https://x.com/eylllsh)      | Designer          |
 | [Selim Çetiner](https://x.com/selim_jpeg) | Researcher        |
